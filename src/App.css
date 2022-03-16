@@ -1,3 +1,12 @@
+@import 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css';
+@import 'https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css';
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+.App {
+  text-align: center;
+}
+
 .App-header {
   background: rgb(0,95,255);
   background: linear-gradient(41deg, rgba(0,95,255,1) 0%, rgba(161,161,221,1) 72%, rgba(225,79,235,1) 100%);
@@ -21,5 +30,5 @@
   margin: auto;
   width: 50%;
   height: 50%;
-  color: white;;
+  color: white;
 }
